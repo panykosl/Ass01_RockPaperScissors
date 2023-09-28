@@ -55,6 +55,6 @@ public class Main {
                 playAgain = true;
             }
         }
-        while (!playAgain) ;
+        while (!playAgain);
     }
 }
